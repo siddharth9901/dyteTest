@@ -1,18 +1,18 @@
 {
-  "name": "sample-web-integration",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "NAME": "SAMPLE-WEB-INTEGRATION",
+  "VERSION": "0.0.0",
+  "PRIVATE": TRUE,
+  "SCRIPTS": {
+    "START": "NODE ./BIN/WWW"
   },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "dotenv": "^8.2.0",
-    "ejs": "~2.6.1",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
+  "DEPENDENCIES": {
+    "AXIOS": "^0.21.1",
+    "COOKIE-PARSER": "~1.4.4",
+    "DEBUG": "~2.6.9",
+    "DOTENV": "^8.2.0",
+    "EJS": "~2.6.1",
+    "EXPRESS": "~4.16.1",
+    "HTTP-ERRORS": "~1.6.3",
+    "MORGAN": "~1.9.1"
   }
 }
